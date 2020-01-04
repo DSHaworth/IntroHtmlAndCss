@@ -55,10 +55,31 @@ ___
 
 CSS (Cascading Style Sheets) is used to style a page.
 
-### Three ways to add style
+Why style?
+[Here's what styling can do.](https://www.w3schools.com/css/css_intro.asp)
+
+
+### [Three ways to add style](https://www.w3schools.com/css/css_howto.asp)
 1. Inline      
 2. In Page <style></style> tags
 3. External File
+
+CSS
+* Case sensitive!
+* * my-class is NOT the same as My-Class
+* Three main types of selectors
+  * tag
+     * p{ color: green; }
+       * Targets all p elements
+  *  class
+     * .my-class { color: red; }
+       * Targets all elements with **class="my-class"** attribute
+  * id
+    * #my-id { color: blue; }
+      * Targets all elements with **id="my-id"** attribute
+
+Links
+* [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
 
 ## Shortcuts
 * CTRL+A - Select All
