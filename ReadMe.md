@@ -81,8 +81,11 @@ CSS
 Links
 * [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
 
-## Shortcuts
+## Helpful Tips
 * CTRL+A - Select All
 * CTRL+C - Copy
 * CTRL+V - Paste
 * CTRL+X - Cut and Copy
+* Google Chrome
+  * F12 - Developer Tools
+    * Elements Tab
